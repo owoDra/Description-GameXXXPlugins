@@ -9,12 +9,12 @@ Game XXX Core, Game XXX Extension, Game XXX: YYY Integration, Game XXX: YYY Addo
 
 # □ Game XXX Extension
 
-Coreの機能を利用し、あらゆるジャンルのゲームに共通する特定の特化した機能を提供するプラグイン。
+Core の機能を利用し、あらゆるジャンルのゲームに共通する特定の特化した機能を提供するプラグイン。
 
 
 # □ Game XXX: YYY Addon
 
-Extensionの機能を利用し、特定のジャンルのゲームに必要な特化した機能を提供するプラグイン。
+Extension/Addon の機能を利用し、特定のジャンルのゲームに必要な特化した機能を提供するプラグイン。
 
 
 # □ Game XXX: YYY Integration
