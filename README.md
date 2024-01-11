@@ -1,7 +1,8 @@
 ## Game XXX Plugins の説明
 [https://github.com/stars/owoDra/lists/game-xxx-plugins]
 
-Game XXX Core, Game XXX Extension, Game XXX: YYY Integration, Game XXX: YYY Addon 系のプラグインの説明
+UnrealEngineでのさまざまなジャンルのゲーム開発に対応可能な複数のモジュール追加プラグイン。
+Game XXX Core, Game XXX Extension, Game XXX: YYY Integration, Game XXX: YYY Addon の4つのグループからなる。
 
 
 # □ Game XXX Core
